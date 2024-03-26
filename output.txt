@@ -1,0 +1,59 @@
+Average Finishing Positions:
+Grizzled Gamblers: 1.86
+Zephyr Loch Ness Monsters: 2.05
+Duivelsei Academy: 3.29
+Dorans Lars de Vries: 3.97
+Green Tea Love: 4.98
+Zephyr Kratos: 5.86
+Esports Team Twente: 5.98
+--------------------
+Percentage of Times Teams Make the Top 4
+Grizzled Gamblers: 99.44%
+Zephyr Loch Ness Monsters: 99.33%
+Duivelsei Academy: 80.39%
+Dorans Lars de Vries: 65.31%
+Green Tea Love: 30.53%
+Zephyr Kratos: 12.99%
+Esports Team Twente: 12.01%
+--------------------
+Clutch Factor Analysis:
+Match: Duivelsei Academy vs Green Tea Love
+Duivelsei Academy: Clutch Factor: positive (18.55%)
+Green Tea Love: Clutch Factor: positive (26.68%)
+
+Match: Duivelsei Academy vs Dorans Lars de Vries
+Duivelsei Academy: Clutch Factor: positive (18.43%)
+Dorans Lars de Vries: Clutch Factor: positive (25.0%)
+
+Match: Zephyr Kratos vs Dorans Lars de Vries
+Zephyr Kratos: Clutch Factor: positive (18.08%)
+Dorans Lars de Vries: Clutch Factor: positive (24.66%)
+
+Match: Esports Team Twente vs Dorans Lars de Vries
+Esports Team Twente: Clutch Factor: positive (16.6%)
+Dorans Lars de Vries: Clutch Factor: positive (23.88%)
+
+Match: Zephyr Kratos vs Green Tea Love
+Zephyr Kratos: Clutch Factor: positive (15.72%)
+Green Tea Love: Clutch Factor: positive (22.99%)
+
+Match: Duivelsei Academy vs Esports Team Twente
+Duivelsei Academy: Clutch Factor: positive (16.34%)
+Esports Team Twente: Clutch Factor: positive (14.48%)
+
+Match: Zephyr Kratos vs Esports Team Twente
+Zephyr Kratos: Clutch Factor: positive (14.03%)
+Esports Team Twente: Clutch Factor: positive (15.34%)
+
+Match: Green Tea Love vs Zephyr Loch Ness Monsters
+Green Tea Love: Clutch Factor: positive (21.07%)
+Zephyr Loch Ness Monsters: Clutch Factor: positive (0.67%)
+
+Match: Grizzled Gamblers vs Green Tea Love
+Grizzled Gamblers: Clutch Factor: positive (0.56%)
+Green Tea Love: Clutch Factor: positive (21.07%)
+
+Match: Grizzled Gamblers vs Zephyr Loch Ness Monsters
+Grizzled Gamblers: Clutch Factor: positive (0.56%)
+Zephyr Loch Ness Monsters: Clutch Factor: positive (0.67%)
+
